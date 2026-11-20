@@ -1,0 +1,501 @@
+Complaint_ID,State,Date,Department,Category,Complaint_Description,Status,Resolution_Days,Urgency
+JSG0001,Uttarakhand,2025-10-09,Food & Civil Supplies,ration card not updated,I request the department to look into this. ration card not updated. I have already submitted the required documents.,In Progress,,Medium
+JSG0002,Uttarakhand,2025-01-31,Education,student admission record correction,Please help. student admission record correction. I have already submitted the required documents.,In Progress,,Medium
+JSG0003,Uttar Pradesh,2026-04-05,Food & Civil Supplies,new ration card application pending,"Despite repeated visits, new ration card application pending. No action has been taken so far. Aadhaar: 1234 5678 9012.",In Progress,,Medium
+JSG0004,Uttar Pradesh,2025-08-09,Rural Development,job card details incorrect,I am very upset. job card details incorrect. This has been pending for weeks. Contact: 9876543210.,In Progress,,Medium
+JSG0005,Rajasthan,2025-05-08,Social Welfare,pension beneficiary name correction,Kindly resolve this issue. pension beneficiary name correction. This has been pending for weeks.,Pending,,Medium
+JSG0006,Madhya Pradesh,2025-03-13,Education,government school lacks teachers,Please help. government school lacks teachers. I have already submitted the required documents.,Pending,,High
+JSG0007,Bihar,2026-01-09,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. No action has been taken so far.,In Progress,,Medium
+JSG0008,Rajasthan,2025-09-08,Social Welfare,widow pension payment delayed,I request the department to look into this. widow pension payment delayed. Please provide an update.,In Progress,,Medium
+JSG0009,Uttarakhand,2025-08-23,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. No action has been taken so far.,In Progress,,High
+JSG0010,Uttar Pradesh,2026-05-27,Food & Civil Supplies,monthly food grain quantity short,Kindly resolve this issue. monthly food grain quantity short. Please provide an update.,In Progress,,Medium
+JSG0011,Rajasthan,2026-02-13,Food & Civil Supplies,new ration card application pending,I am very upset. new ration card application pending. I have already submitted the required documents.,In Progress,,Medium
+JSG0012,Madhya Pradesh,2025-06-13,Social Welfare,widow pension payment delayed,Kindly resolve this issue. widow pension payment delayed. My family is facing serious difficulty. Contact: 9876543210.,In Progress,,High
+JSG0013,Madhya Pradesh,2025-04-28,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. No action has been taken so far.",Resolved,1.0,Low
+JSG0014,Rajasthan,2025-07-02,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. This has been pending for weeks.",In Progress,,Medium
+JSG0015,Uttar Pradesh,2026-07-07,Public Health,ambulance service delayed,"Despite repeated visits, ambulance service delayed. This has been pending for weeks.",Resolved,20.0,Medium
+JSG0016,Uttar Pradesh,2026-08-04,Public Health,primary health centre has no doctor,Please help. primary health centre has no doctor. This has been pending for weeks.,In Progress,,High
+JSG0017,Madhya Pradesh,2026-05-02,Public Health,medicine unavailable at government hospital,"Despite repeated visits, medicine unavailable at government hospital. I have already submitted the required documents.",Resolved,35.0,Low
+JSG0018,Madhya Pradesh,2025-11-16,Food & Civil Supplies,fair price shop denied ration,Kindly resolve this issue. fair price shop denied ration. No action has been taken so far.,Resolved,22.0,Medium
+JSG0019,Rajasthan,2025-08-14,Social Welfare,widow pension payment delayed,Please help. widow pension payment delayed. This has been pending for weeks.,Resolved,22.0,Low
+JSG0020,Himachal Pradesh,2026-05-13,Social Welfare,widow pension payment delayed,I request the department to look into this. widow pension payment delayed. My family is facing serious difficulty.,In Progress,,Medium
+JSG0021,Uttar Pradesh,2025-04-07,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. Please provide an update.,Resolved,42.0,High
+JSG0022,Uttarakhand,2026-02-17,Food & Civil Supplies,ration card not updated,I am very upset. ration card not updated. This has been pending for weeks.,Resolved,18.0,Low
+JSG0023,Uttarakhand,2026-03-30,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. This has been pending for weeks. Contact: 9876543210.",Pending,,Medium
+JSG0024,Bihar,2026-05-13,Public Health,medicine unavailable at government hospital,Kindly resolve this issue. medicine unavailable at government hospital. I have already submitted the required documents.,Resolved,25.0,Low
+JSG0025,Himachal Pradesh,2026-03-10,Rural Development,drinking water work pending in village,"Despite repeated visits, drinking water work pending in village. Please provide an update.",In Progress,,High
+JSG0026,Madhya Pradesh,2025-11-18,Education,scholarship amount not received,Please help. scholarship amount not received. This has been pending for weeks.,Resolved,33.0,High
+JSG0027,Uttarakhand,2025-03-11,Social Welfare,widow pension payment delayed,I request the department to look into this. widow pension payment delayed. Please provide an update.,In Progress,,Low
+JSG0028,Bihar,2026-08-21,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. My family is facing serious difficulty.",Resolved,17.0,Medium
+JSG0029,Madhya Pradesh,2025-11-04,Revenue,income certificate delayed,Kindly resolve this issue. income certificate delayed. No action has been taken so far.,In Progress,,Low
+JSG0030,Uttarakhand,2026-07-05,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. My family is facing serious difficulty.,Pending,,High
+JSG0031,Uttar Pradesh,2026-03-25,Rural Development,job card details incorrect,"Despite repeated visits, job card details incorrect. No action has been taken so far.",Resolved,36.0,Medium
+JSG0032,Uttar Pradesh,2025-09-28,Rural Development,rural road construction incomplete,Please help. rural road construction incomplete. This has been pending for weeks.,Resolved,22.0,Low
+JSG0033,Rajasthan,2026-05-16,Public Health,ambulance service delayed,I am very upset. ambulance service delayed. This has been pending for weeks. Contact: 9876543210.,Resolved,9.0,Medium
+JSG0034,Uttar Pradesh,2026-03-29,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. Please provide an update.",In Progress,,High
+JSG0035,Himachal Pradesh,2026-08-20,Public Health,primary health centre has no doctor,"Despite repeated visits, primary health centre has no doctor. I have already submitted the required documents. Aadhaar: 1234 5678 9012.",Pending,,Medium
+JSG0036,Uttar Pradesh,2025-09-13,Social Welfare,disability pension application pending,Please help. disability pension application pending. No action has been taken so far.,In Progress,,Low
+JSG0037,Uttar Pradesh,2025-07-01,Public Health,medicine unavailable at government hospital,Kindly resolve this issue. medicine unavailable at government hospital. This has been pending for weeks.,Resolved,43.0,Medium
+JSG0038,Himachal Pradesh,2025-06-13,Food & Civil Supplies,fair price shop denied ration,Please help. fair price shop denied ration. Please provide an update.,Pending,,Medium
+JSG0039,Himachal Pradesh,2025-08-22,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. This has been pending for weeks.,Resolved,18.0,Low
+JSG0040,Madhya Pradesh,2026-07-04,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. This has been pending for weeks.,Pending,,Low
+JSG0041,Uttarakhand,2026-03-21,Rural Development,rural road construction incomplete,I am very upset. rural road construction incomplete. No action has been taken so far.,Pending,,Low
+JSG0042,Uttarakhand,2026-03-23,Public Health,ambulance service delayed,Please help. ambulance service delayed. My family is facing serious difficulty.,In Progress,,High
+JSG0043,Himachal Pradesh,2026-03-18,Food & Civil Supplies,fair price shop denied ration,Please help. fair price shop denied ration. No action has been taken so far.,Pending,,Medium
+JSG0044,Madhya Pradesh,2026-02-23,Education,school building repair pending,I am very upset. school building repair pending. Please provide an update.,In Progress,,Low
+JSG0045,Rajasthan,2026-08-06,Revenue,income certificate delayed,I am very upset. income certificate delayed. Please provide an update. Aadhaar: 1234 5678 9012.,Resolved,38.0,Low
+JSG0046,Bihar,2026-03-29,Education,school building repair pending,Kindly resolve this issue. school building repair pending. I have already submitted the required documents.,In Progress,,High
+JSG0047,Himachal Pradesh,2026-06-12,Food & Civil Supplies,ration card not updated,"Despite repeated visits, ration card not updated. No action has been taken so far. Contact: 9876543210.",Resolved,13.0,Low
+JSG0048,Uttarakhand,2025-09-08,Public Health,primary health centre has no doctor,Kindly resolve this issue. primary health centre has no doctor. My family is facing serious difficulty.,In Progress,,High
+JSG0049,Bihar,2026-02-14,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. I have already submitted the required documents. Aadhaar: 1234 5678 9012.,In Progress,,Medium
+JSG0050,Uttar Pradesh,2025-06-30,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. Please provide an update. Contact: 9876543210.",In Progress,,Medium
+JSG0051,Bihar,2026-06-01,Revenue,property record has incorrect entry,Kindly resolve this issue. property record has incorrect entry. My family is facing serious difficulty.,In Progress,,High
+JSG0052,Rajasthan,2026-05-12,Public Health,ambulance service delayed,I request the department to look into this. ambulance service delayed. No action has been taken so far.,Resolved,35.0,Medium
+JSG0053,Uttar Pradesh,2025-08-25,Social Welfare,widow pension payment delayed,Kindly resolve this issue. widow pension payment delayed. I have already submitted the required documents.,In Progress,,Low
+JSG0054,Uttar Pradesh,2026-03-07,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. My family is facing serious difficulty. Aadhaar: 1234 5678 9012.,In Progress,,High
+JSG0055,Himachal Pradesh,2025-11-02,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. Please provide an update.,Pending,,Medium
+JSG0056,Himachal Pradesh,2026-03-23,Revenue,income certificate delayed,Kindly resolve this issue. income certificate delayed. This has been pending for weeks.,In Progress,,Medium
+JSG0057,Rajasthan,2026-07-01,Revenue,income certificate delayed,Please help. income certificate delayed. Please provide an update.,Resolved,30.0,Low
+JSG0058,Himachal Pradesh,2026-01-24,Public Health,primary health centre has no doctor,I am very upset. primary health centre has no doctor. I have already submitted the required documents.,Resolved,27.0,High
+JSG0059,Bihar,2025-01-20,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. This has been pending for weeks.",In Progress,,Medium
+JSG0060,Uttarakhand,2025-09-11,Food & Civil Supplies,ration card not updated,I request the department to look into this. ration card not updated. This has been pending for weeks.,Resolved,14.0,Medium
+JSG0061,Himachal Pradesh,2025-06-21,Revenue,property record has incorrect entry,"Despite repeated visits, property record has incorrect entry. My family is facing serious difficulty.",Resolved,20.0,Medium
+JSG0062,Himachal Pradesh,2026-08-13,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. Please provide an update.,Pending,,Medium
+JSG0063,Madhya Pradesh,2025-11-05,Public Health,primary health centre has no doctor,"Despite repeated visits, primary health centre has no doctor. This has been pending for weeks.",In Progress,,Low
+JSG0064,Uttarakhand,2026-06-03,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. This has been pending for weeks.,Pending,,Low
+JSG0065,Madhya Pradesh,2025-06-06,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. I have already submitted the required documents.,Pending,,Low
+JSG0066,Bihar,2026-03-23,Education,student admission record correction,"Despite repeated visits, student admission record correction. No action has been taken so far.",Resolved,29.0,High
+JSG0067,Rajasthan,2026-01-24,Public Health,health card claim rejected,I am very upset. health card claim rejected. This has been pending for weeks.,Resolved,17.0,Medium
+JSG0068,Rajasthan,2025-10-10,Rural Development,job card details incorrect,"Despite repeated visits, job card details incorrect. This has been pending for weeks.",Resolved,36.0,Low
+JSG0069,Madhya Pradesh,2026-05-18,Public Health,health card claim rejected,Kindly resolve this issue. health card claim rejected. This has been pending for weeks. Contact: 9876543210.,Resolved,38.0,Medium
+JSG0070,Rajasthan,2026-06-28,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. Please provide an update.,In Progress,,Low
+JSG0071,Uttar Pradesh,2025-05-04,Rural Development,job card details incorrect,I request the department to look into this. job card details incorrect. No action has been taken so far.,Resolved,14.0,Medium
+JSG0072,Himachal Pradesh,2026-06-22,Food & Civil Supplies,new ration card application pending,"Despite repeated visits, new ration card application pending. No action has been taken so far.",Resolved,20.0,Low
+JSG0073,Himachal Pradesh,2025-02-16,Social Welfare,widow pension payment delayed,Please help. widow pension payment delayed. My family is facing serious difficulty.,In Progress,,Medium
+JSG0074,Rajasthan,2025-10-19,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. Please provide an update.,Pending,,Low
+JSG0075,Uttarakhand,2026-02-15,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. This has been pending for weeks.,Pending,,Low
+JSG0076,Uttar Pradesh,2025-05-02,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. Please provide an update.",In Progress,,Low
+JSG0077,Himachal Pradesh,2026-03-16,Revenue,caste certificate application not processed,I am very upset. caste certificate application not processed. My family is facing serious difficulty.,Pending,,Medium
+JSG0078,Himachal Pradesh,2025-03-25,Public Health,medicine unavailable at government hospital,I request the department to look into this. medicine unavailable at government hospital. I have already submitted the required documents.,In Progress,,Low
+JSG0079,Himachal Pradesh,2025-02-03,Education,student admission record correction,I request the department to look into this. student admission record correction. No action has been taken so far.,In Progress,,Medium
+JSG0080,Bihar,2025-04-28,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. I have already submitted the required documents.",Resolved,11.0,Medium
+JSG0081,Bihar,2025-05-08,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. No action has been taken so far.,In Progress,,Medium
+JSG0082,Bihar,2025-11-27,Social Welfare,old age pension not credited,"Despite repeated visits, old age pension not credited. No action has been taken so far. Contact: 9876543210.",Pending,,Medium
+JSG0083,Madhya Pradesh,2025-10-03,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. This has been pending for weeks.",Resolved,18.0,Medium
+JSG0084,Madhya Pradesh,2026-05-19,Public Health,health card claim rejected,Please help. health card claim rejected. Please provide an update.,Pending,,Medium
+JSG0085,Madhya Pradesh,2026-05-23,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. Please provide an update.,Resolved,21.0,Medium
+JSG0086,Rajasthan,2025-01-02,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. Please provide an update.",In Progress,,Low
+JSG0087,Uttarakhand,2025-07-28,Food & Civil Supplies,new ration card application pending,I am very upset. new ration card application pending. My family is facing serious difficulty.,In Progress,,High
+JSG0088,Madhya Pradesh,2025-06-12,Social Welfare,widow pension payment delayed,I am very upset. widow pension payment delayed. My family is facing serious difficulty. Contact: 9876543210.,Pending,,Low
+JSG0089,Uttarakhand,2025-06-07,Social Welfare,pension beneficiary name correction,Kindly resolve this issue. pension beneficiary name correction. No action has been taken so far.,Pending,,Medium
+JSG0090,Rajasthan,2025-05-29,Public Health,health card claim rejected,Kindly resolve this issue. health card claim rejected. I have already submitted the required documents.,Pending,,High
+JSG0091,Himachal Pradesh,2026-06-04,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. This has been pending for weeks.,Pending,,Medium
+JSG0092,Bihar,2026-07-06,Revenue,income certificate delayed,Kindly resolve this issue. income certificate delayed. No action has been taken so far.,Pending,,Low
+JSG0093,Rajasthan,2026-01-28,Public Health,medicine unavailable at government hospital,I request the department to look into this. medicine unavailable at government hospital. Please provide an update. Contact: 9876543210.,Pending,,Medium
+JSG0094,Bihar,2025-02-07,Revenue,income certificate delayed,I request the department to look into this. income certificate delayed. My family is facing serious difficulty.,Pending,,Low
+JSG0095,Uttarakhand,2025-05-28,Social Welfare,pension beneficiary name correction,Kindly resolve this issue. pension beneficiary name correction. I have already submitted the required documents. Contact: 9876543210.,In Progress,,Low
+JSG0096,Himachal Pradesh,2026-07-01,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. No action has been taken so far.,In Progress,,Medium
+JSG0097,Uttar Pradesh,2025-10-22,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. This has been pending for weeks.,Pending,,Medium
+JSG0098,Madhya Pradesh,2025-11-03,Revenue,income certificate delayed,Please help. income certificate delayed. This has been pending for weeks.,Resolved,16.0,Low
+JSG0099,Rajasthan,2025-07-04,Education,student admission record correction,I request the department to look into this. student admission record correction. I have already submitted the required documents. Contact: 9876543210.,Resolved,38.0,Medium
+JSG0100,Bihar,2025-09-18,Public Health,medicine unavailable at government hospital,Kindly resolve this issue. medicine unavailable at government hospital. No action has been taken so far.,Resolved,35.0,Medium
+JSG0101,Bihar,2025-12-20,Public Health,primary health centre has no doctor,"Despite repeated visits, primary health centre has no doctor. No action has been taken so far.",Pending,,Medium
+JSG0102,Bihar,2025-04-20,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. Please provide an update.,Resolved,43.0,High
+JSG0103,Uttarakhand,2026-08-03,Revenue,property record has incorrect entry,Please help. property record has incorrect entry. My family is facing serious difficulty.,In Progress,,High
+JSG0104,Uttar Pradesh,2025-07-14,Public Health,ambulance service delayed,"Despite repeated visits, ambulance service delayed. No action has been taken so far.",Pending,,High
+JSG0105,Madhya Pradesh,2025-02-10,Food & Civil Supplies,ration card not updated,I am very upset. ration card not updated. Please provide an update. Contact: 9876543210.,Pending,,Low
+JSG0106,Uttar Pradesh,2025-07-25,Rural Development,drinking water work pending in village,I request the department to look into this. drinking water work pending in village. My family is facing serious difficulty.,Resolved,11.0,Medium
+JSG0107,Himachal Pradesh,2025-12-13,Rural Development,drinking water work pending in village,Please help. drinking water work pending in village. Please provide an update.,Pending,,High
+JSG0108,Rajasthan,2026-01-10,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. Please provide an update. Contact: 9876543210.,In Progress,,Medium
+JSG0109,Rajasthan,2026-01-26,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. This has been pending for weeks.,Pending,,Medium
+JSG0110,Madhya Pradesh,2025-03-06,Rural Development,MNREGA wages not received,Kindly resolve this issue. MNREGA wages not received. No action has been taken so far.,Resolved,32.0,Low
+JSG0111,Uttar Pradesh,2026-07-05,Social Welfare,old age pension not credited,I request the department to look into this. old age pension not credited. Please provide an update.,Pending,,Medium
+JSG0112,Bihar,2025-04-12,Revenue,income certificate delayed,Kindly resolve this issue. income certificate delayed. My family is facing serious difficulty.,Resolved,29.0,Low
+JSG0113,Himachal Pradesh,2025-04-12,Revenue,income certificate delayed,I am very upset. income certificate delayed. My family is facing serious difficulty.,Resolved,8.0,Low
+JSG0114,Madhya Pradesh,2025-08-06,Revenue,land mutation application pending,"Despite repeated visits, land mutation application pending. This has been pending for weeks. Contact: 9876543210.",In Progress,,High
+JSG0115,Rajasthan,2025-08-01,Public Health,primary health centre has no doctor,"Despite repeated visits, primary health centre has no doctor. I have already submitted the required documents.",In Progress,,High
+JSG0116,Himachal Pradesh,2025-05-29,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. My family is facing serious difficulty.,Resolved,1.0,Medium
+JSG0117,Rajasthan,2025-11-28,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. I have already submitted the required documents.,Resolved,5.0,Low
+JSG0118,Himachal Pradesh,2026-06-10,Revenue,caste certificate application not processed,"Despite repeated visits, caste certificate application not processed. This has been pending for weeks.",In Progress,,Medium
+JSG0119,Bihar,2025-02-01,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. Please provide an update.,In Progress,,Low
+JSG0120,Uttarakhand,2025-11-26,Revenue,land mutation application pending,"Despite repeated visits, land mutation application pending. I have already submitted the required documents. Contact: 9876543210.",In Progress,,Medium
+JSG0121,Rajasthan,2026-06-28,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. Please provide an update.,Resolved,42.0,Medium
+JSG0122,Bihar,2026-04-08,Food & Civil Supplies,fair price shop denied ration,I request the department to look into this. fair price shop denied ration. Please provide an update.,Resolved,28.0,High
+JSG0123,Himachal Pradesh,2025-06-06,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. This has been pending for weeks. Contact: 9876543210.,In Progress,,Low
+JSG0124,Rajasthan,2025-03-03,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. My family is facing serious difficulty.",Pending,,Low
+JSG0125,Himachal Pradesh,2025-11-16,Revenue,land mutation application pending,I am very upset. land mutation application pending. This has been pending for weeks.,Resolved,7.0,Medium
+JSG0126,Uttarakhand,2025-10-13,Rural Development,job card details incorrect,"Despite repeated visits, job card details incorrect. I have already submitted the required documents.",Pending,,High
+JSG0127,Rajasthan,2025-10-01,Education,scholarship amount not received,Please help. scholarship amount not received. I have already submitted the required documents.,Resolved,12.0,High
+JSG0128,Uttarakhand,2025-05-26,Public Health,health card claim rejected,Please help. health card claim rejected. This has been pending for weeks.,Resolved,24.0,Low
+JSG0129,Rajasthan,2025-03-28,Rural Development,job card details incorrect,Please help. job card details incorrect. I have already submitted the required documents.,Resolved,43.0,Medium
+JSG0130,Rajasthan,2026-03-29,Revenue,caste certificate application not processed,Kindly resolve this issue. caste certificate application not processed. No action has been taken so far.,Resolved,44.0,Low
+JSG0131,Rajasthan,2025-11-12,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. I have already submitted the required documents.,Resolved,14.0,Low
+JSG0132,Himachal Pradesh,2025-12-02,Public Health,ambulance service delayed,Please help. ambulance service delayed. This has been pending for weeks.,In Progress,,Medium
+JSG0133,Uttarakhand,2026-02-11,Public Health,ambulance service delayed,Please help. ambulance service delayed. Please provide an update. Contact: 9876543210.,In Progress,,High
+JSG0134,Madhya Pradesh,2026-03-04,Education,student admission record correction,I am very upset. student admission record correction. This has been pending for weeks.,Pending,,Low
+JSG0135,Uttarakhand,2026-03-24,Revenue,property record has incorrect entry,Please help. property record has incorrect entry. I have already submitted the required documents.,Pending,,Low
+JSG0136,Uttar Pradesh,2025-12-08,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. This has been pending for weeks.,Pending,,Medium
+JSG0137,Madhya Pradesh,2025-06-01,Rural Development,job card details incorrect,I request the department to look into this. job card details incorrect. This has been pending for weeks.,In Progress,,Medium
+JSG0138,Uttar Pradesh,2026-05-21,Food & Civil Supplies,ration card not updated,Kindly resolve this issue. ration card not updated. My family is facing serious difficulty.,In Progress,,High
+JSG0139,Madhya Pradesh,2025-11-20,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. Please provide an update. Contact: 9876543210.,Resolved,4.0,Low
+JSG0140,Himachal Pradesh,2026-04-18,Rural Development,rural road construction incomplete,Kindly resolve this issue. rural road construction incomplete. This has been pending for weeks. Contact: 9876543210.,Pending,,Low
+JSG0141,Bihar,2026-08-18,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. This has been pending for weeks.",Resolved,31.0,Medium
+JSG0142,Uttarakhand,2026-04-07,Education,government school lacks teachers,Please help. government school lacks teachers. No action has been taken so far.,Resolved,29.0,Medium
+JSG0143,Himachal Pradesh,2026-01-17,Revenue,income certificate delayed,I am very upset. income certificate delayed. Please provide an update.,In Progress,,Medium
+JSG0144,Uttarakhand,2025-12-04,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. My family is facing serious difficulty.,In Progress,,Medium
+JSG0145,Himachal Pradesh,2025-03-25,Education,government school lacks teachers,"Despite repeated visits, government school lacks teachers. I have already submitted the required documents.",In Progress,,Medium
+JSG0146,Himachal Pradesh,2026-07-27,Public Health,primary health centre has no doctor,Kindly resolve this issue. primary health centre has no doctor. No action has been taken so far.,In Progress,,High
+JSG0147,Madhya Pradesh,2026-03-10,Food & Civil Supplies,ration card not updated,"Despite repeated visits, ration card not updated. No action has been taken so far. Contact: 9876543210.",Resolved,32.0,High
+JSG0148,Uttar Pradesh,2025-06-08,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. No action has been taken so far.,Pending,,Medium
+JSG0149,Madhya Pradesh,2025-12-11,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. I have already submitted the required documents.",In Progress,,Low
+JSG0150,Madhya Pradesh,2026-03-25,Education,government school lacks teachers,Please help. government school lacks teachers. Please provide an update.,In Progress,,High
+JSG0151,Uttar Pradesh,2026-07-01,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. No action has been taken so far.,Resolved,44.0,High
+JSG0152,Bihar,2025-10-16,Education,student admission record correction,Kindly resolve this issue. student admission record correction. My family is facing serious difficulty.,Pending,,Medium
+JSG0153,Uttarakhand,2026-05-08,Public Health,ambulance service delayed,I am very upset. ambulance service delayed. My family is facing serious difficulty.,Resolved,6.0,High
+JSG0154,Bihar,2026-06-10,Public Health,ambulance service delayed,I request the department to look into this. ambulance service delayed. Please provide an update. Contact: 9876543210.,Pending,,High
+JSG0155,Uttarakhand,2026-02-10,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. No action has been taken so far.",Resolved,7.0,Low
+JSG0156,Uttar Pradesh,2025-05-21,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. No action has been taken so far.,In Progress,,Medium
+JSG0157,Rajasthan,2025-01-06,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. This has been pending for weeks.,In Progress,,Medium
+JSG0158,Uttarakhand,2025-10-23,Education,student admission record correction,I request the department to look into this. student admission record correction. No action has been taken so far.,In Progress,,Medium
+JSG0159,Bihar,2026-07-03,Social Welfare,old age pension not credited,Please help. old age pension not credited. My family is facing serious difficulty.,Resolved,23.0,Low
+JSG0160,Uttar Pradesh,2025-03-29,Public Health,health card claim rejected,"Despite repeated visits, health card claim rejected. No action has been taken so far. Contact: 9876543210.",Pending,,Medium
+JSG0161,Bihar,2026-04-27,Education,scholarship amount not received,Please help. scholarship amount not received. Please provide an update.,In Progress,,Low
+JSG0162,Madhya Pradesh,2025-04-17,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. No action has been taken so far.",In Progress,,Low
+JSG0163,Madhya Pradesh,2026-05-06,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. I have already submitted the required documents. Contact: 9876543210.,Resolved,3.0,Medium
+JSG0164,Himachal Pradesh,2025-11-14,Public Health,primary health centre has no doctor,"Despite repeated visits, primary health centre has no doctor. Please provide an update.",In Progress,,Medium
+JSG0165,Himachal Pradesh,2025-02-18,Public Health,ambulance service delayed,I am very upset. ambulance service delayed. No action has been taken so far.,In Progress,,High
+JSG0166,Uttar Pradesh,2026-05-24,Revenue,property record has incorrect entry,Kindly resolve this issue. property record has incorrect entry. No action has been taken so far.,In Progress,,Medium
+JSG0167,Rajasthan,2025-07-04,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. No action has been taken so far.",Resolved,39.0,Medium
+JSG0168,Uttar Pradesh,2026-03-31,Food & Civil Supplies,new ration card application pending,I am very upset. new ration card application pending. Please provide an update. Contact: 9876543210.,Pending,,Low
+JSG0169,Uttarakhand,2026-02-20,Rural Development,rural road construction incomplete,I am very upset. rural road construction incomplete. My family is facing serious difficulty.,Resolved,39.0,High
+JSG0170,Uttarakhand,2025-05-10,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. I have already submitted the required documents.,In Progress,,Low
+JSG0171,Madhya Pradesh,2026-04-06,Education,government school lacks teachers,I am very upset. government school lacks teachers. No action has been taken so far.,Resolved,21.0,Low
+JSG0172,Uttar Pradesh,2025-04-27,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. I have already submitted the required documents.,Resolved,17.0,Medium
+JSG0173,Uttar Pradesh,2025-10-20,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. I have already submitted the required documents.,Pending,,Medium
+JSG0174,Madhya Pradesh,2025-11-24,Revenue,land mutation application pending,I am very upset. land mutation application pending. This has been pending for weeks.,Resolved,45.0,Low
+JSG0175,Himachal Pradesh,2026-06-05,Food & Civil Supplies,fair price shop denied ration,I request the department to look into this. fair price shop denied ration. This has been pending for weeks.,In Progress,,Medium
+JSG0176,Bihar,2026-07-19,Rural Development,job card details incorrect,I request the department to look into this. job card details incorrect. My family is facing serious difficulty.,In Progress,,Low
+JSG0177,Bihar,2026-08-12,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. I have already submitted the required documents.,In Progress,,Low
+JSG0178,Rajasthan,2025-07-06,Rural Development,MNREGA wages not received,I request the department to look into this. MNREGA wages not received. Please provide an update.,In Progress,,Medium
+JSG0179,Uttar Pradesh,2025-11-27,Rural Development,MNREGA wages not received,I request the department to look into this. MNREGA wages not received. No action has been taken so far.,Resolved,13.0,Low
+JSG0180,Uttar Pradesh,2025-11-07,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. My family is facing serious difficulty. Contact: 9876543210.",In Progress,,Medium
+JSG0181,Rajasthan,2025-02-12,Public Health,ambulance service delayed,Please help. ambulance service delayed. This has been pending for weeks. Contact: 9876543210.,In Progress,,High
+JSG0182,Rajasthan,2025-02-01,Education,student admission record correction,Kindly resolve this issue. student admission record correction. My family is facing serious difficulty.,Pending,,Medium
+JSG0183,Himachal Pradesh,2026-04-10,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. This has been pending for weeks.,Resolved,10.0,Medium
+JSG0184,Madhya Pradesh,2025-12-20,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. I have already submitted the required documents.,Resolved,8.0,Low
+JSG0185,Uttar Pradesh,2025-05-25,Rural Development,drinking water work pending in village,Please help. drinking water work pending in village. This has been pending for weeks.,Resolved,11.0,Medium
+JSG0186,Uttar Pradesh,2025-06-13,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. My family is facing serious difficulty.,Resolved,26.0,Medium
+JSG0187,Uttar Pradesh,2025-08-09,Education,student admission record correction,"Despite repeated visits, student admission record correction. No action has been taken so far. Contact: 9876543210.",Pending,,Medium
+JSG0188,Himachal Pradesh,2026-07-04,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. This has been pending for weeks.,In Progress,,Medium
+JSG0189,Bihar,2025-02-22,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. My family is facing serious difficulty.",In Progress,,Low
+JSG0190,Rajasthan,2025-05-02,Education,school building repair pending,I request the department to look into this. school building repair pending. This has been pending for weeks.,Pending,,Low
+JSG0191,Rajasthan,2026-06-06,Public Health,medicine unavailable at government hospital,Kindly resolve this issue. medicine unavailable at government hospital. My family is facing serious difficulty. Contact: 9876543210. Aadhaar: 1234 5678 9012.,Pending,,Medium
+JSG0192,Uttar Pradesh,2026-06-12,Education,student admission record correction,I request the department to look into this. student admission record correction. No action has been taken so far.,In Progress,,Low
+JSG0193,Rajasthan,2026-06-06,Rural Development,job card details incorrect,"Despite repeated visits, job card details incorrect. Please provide an update.",Resolved,44.0,Medium
+JSG0194,Rajasthan,2025-11-12,Social Welfare,pension beneficiary name correction,Please help. pension beneficiary name correction. My family is facing serious difficulty.,In Progress,,Medium
+JSG0195,Madhya Pradesh,2025-02-22,Education,government school lacks teachers,"Despite repeated visits, government school lacks teachers. Please provide an update.",Pending,,Medium
+JSG0196,Uttarakhand,2026-08-10,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. I have already submitted the required documents. Contact: 9876543210.,In Progress,,Low
+JSG0197,Madhya Pradesh,2025-03-05,Revenue,caste certificate application not processed,I request the department to look into this. caste certificate application not processed. My family is facing serious difficulty.,In Progress,,Medium
+JSG0198,Bihar,2026-06-30,Rural Development,MNREGA wages not received,I am very upset. MNREGA wages not received. My family is facing serious difficulty.,In Progress,,Medium
+JSG0199,Rajasthan,2026-05-11,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. I have already submitted the required documents.,Pending,,High
+JSG0200,Madhya Pradesh,2026-05-16,Rural Development,MNREGA wages not received,I am very upset. MNREGA wages not received. Please provide an update.,Resolved,8.0,Medium
+JSG0201,Bihar,2025-12-20,Education,student admission record correction,I request the department to look into this. student admission record correction. No action has been taken so far. Contact: 9876543210.,Pending,,Low
+JSG0202,Madhya Pradesh,2026-05-06,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. I have already submitted the required documents.,Resolved,7.0,Medium
+JSG0203,Uttar Pradesh,2025-02-21,Education,government school lacks teachers,"Despite repeated visits, government school lacks teachers. I have already submitted the required documents.",In Progress,,Low
+JSG0204,Uttarakhand,2026-07-18,Social Welfare,widow pension payment delayed,I request the department to look into this. widow pension payment delayed. Please provide an update.,In Progress,,Medium
+JSG0205,Himachal Pradesh,2025-03-02,Rural Development,job card details incorrect,Please help. job card details incorrect. My family is facing serious difficulty.,Resolved,12.0,High
+JSG0206,Uttarakhand,2026-02-11,Revenue,income certificate delayed,Kindly resolve this issue. income certificate delayed. I have already submitted the required documents.,Pending,,High
+JSG0207,Rajasthan,2025-04-20,Social Welfare,disability pension application pending,I am very upset. disability pension application pending. No action has been taken so far.,Pending,,Medium
+JSG0208,Himachal Pradesh,2025-07-17,Public Health,health card claim rejected,Please help. health card claim rejected. No action has been taken so far.,Resolved,22.0,Low
+JSG0209,Uttar Pradesh,2026-02-20,Rural Development,MNREGA wages not received,Kindly resolve this issue. MNREGA wages not received. My family is facing serious difficulty.,Pending,,Low
+JSG0210,Uttar Pradesh,2025-01-07,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. Please provide an update.,Resolved,37.0,High
+JSG0211,Madhya Pradesh,2026-01-04,Social Welfare,disability pension application pending,I request the department to look into this. disability pension application pending. This has been pending for weeks.,In Progress,,Low
+JSG0212,Madhya Pradesh,2025-05-01,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. No action has been taken so far.,Resolved,39.0,Low
+JSG0213,Madhya Pradesh,2026-07-17,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. My family is facing serious difficulty.,In Progress,,Medium
+JSG0214,Rajasthan,2026-04-03,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. No action has been taken so far. Contact: 9876543210.",In Progress,,Low
+JSG0215,Rajasthan,2026-07-04,Education,government school lacks teachers,I request the department to look into this. government school lacks teachers. I have already submitted the required documents.,Resolved,38.0,Low
+JSG0216,Rajasthan,2026-04-02,Revenue,land mutation application pending,Please help. land mutation application pending. Please provide an update.,In Progress,,Medium
+JSG0217,Madhya Pradesh,2025-01-23,Food & Civil Supplies,monthly food grain quantity short,Kindly resolve this issue. monthly food grain quantity short. No action has been taken so far.,Resolved,23.0,Medium
+JSG0218,Rajasthan,2025-03-03,Food & Civil Supplies,ration card not updated,Please help. ration card not updated. Please provide an update. Contact: 9876543210.,In Progress,,Medium
+JSG0219,Himachal Pradesh,2026-01-27,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. Please provide an update.,In Progress,,Medium
+JSG0220,Uttarakhand,2025-07-02,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. Please provide an update.",Resolved,2.0,Low
+JSG0221,Madhya Pradesh,2026-07-12,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. My family is facing serious difficulty.,Resolved,13.0,Medium
+JSG0222,Uttarakhand,2026-03-06,Food & Civil Supplies,ration card not updated,"Despite repeated visits, ration card not updated. This has been pending for weeks.",Resolved,44.0,Medium
+JSG0223,Uttar Pradesh,2025-02-15,Food & Civil Supplies,ration card not updated,Kindly resolve this issue. ration card not updated. Please provide an update.,Resolved,33.0,High
+JSG0224,Madhya Pradesh,2026-08-13,Rural Development,MNREGA wages not received,I am very upset. MNREGA wages not received. My family is facing serious difficulty.,Resolved,10.0,Low
+JSG0225,Bihar,2025-11-04,Food & Civil Supplies,fair price shop denied ration,I am very upset. fair price shop denied ration. This has been pending for weeks.,Resolved,44.0,High
+JSG0226,Uttarakhand,2025-12-19,Revenue,caste certificate application not processed,Kindly resolve this issue. caste certificate application not processed. My family is facing serious difficulty.,Resolved,35.0,Low
+JSG0227,Uttar Pradesh,2025-11-04,Revenue,income certificate delayed,I request the department to look into this. income certificate delayed. Please provide an update.,In Progress,,High
+JSG0228,Uttar Pradesh,2025-09-19,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. No action has been taken so far.,Resolved,13.0,Medium
+JSG0229,Bihar,2025-02-10,Social Welfare,disability pension application pending,Please help. disability pension application pending. I have already submitted the required documents.,Resolved,14.0,Medium
+JSG0230,Uttarakhand,2025-08-05,Rural Development,job card details incorrect,I request the department to look into this. job card details incorrect. This has been pending for weeks.,In Progress,,High
+JSG0231,Bihar,2025-09-03,Food & Civil Supplies,fair price shop denied ration,"Despite repeated visits, fair price shop denied ration. No action has been taken so far.",Resolved,17.0,High
+JSG0232,Bihar,2025-04-11,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. No action has been taken so far.,In Progress,,Low
+JSG0233,Uttarakhand,2025-09-25,Public Health,medicine unavailable at government hospital,"Despite repeated visits, medicine unavailable at government hospital. My family is facing serious difficulty.",Resolved,25.0,Low
+JSG0234,Bihar,2026-07-18,Education,government school lacks teachers,I am very upset. government school lacks teachers. No action has been taken so far.,In Progress,,Medium
+JSG0235,Madhya Pradesh,2025-12-27,Revenue,income certificate delayed,I request the department to look into this. income certificate delayed. I have already submitted the required documents.,In Progress,,High
+JSG0236,Rajasthan,2025-02-04,Food & Civil Supplies,ration card not updated,Please help. ration card not updated. This has been pending for weeks.,Resolved,10.0,Medium
+JSG0237,Rajasthan,2026-04-12,Social Welfare,widow pension payment delayed,I am very upset. widow pension payment delayed. This has been pending for weeks.,In Progress,,Medium
+JSG0238,Uttarakhand,2026-06-29,Revenue,land mutation application pending,"Despite repeated visits, land mutation application pending. Please provide an update. Contact: 9876543210.",Pending,,Low
+JSG0239,Uttar Pradesh,2025-04-20,Social Welfare,pension beneficiary name correction,Please help. pension beneficiary name correction. My family is facing serious difficulty.,Pending,,Medium
+JSG0240,Uttarakhand,2026-01-18,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. Please provide an update.,In Progress,,Low
+JSG0241,Uttarakhand,2026-02-20,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. Please provide an update.,Resolved,32.0,Low
+JSG0242,Rajasthan,2025-04-08,Revenue,property record has incorrect entry,"Despite repeated visits, property record has incorrect entry. This has been pending for weeks.",In Progress,,Medium
+JSG0243,Uttarakhand,2025-10-15,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. My family is facing serious difficulty.",Resolved,14.0,High
+JSG0244,Madhya Pradesh,2026-02-12,Education,government school lacks teachers,Please help. government school lacks teachers. No action has been taken so far.,Resolved,35.0,Medium
+JSG0245,Madhya Pradesh,2025-05-24,Rural Development,drinking water work pending in village,Please help. drinking water work pending in village. My family is facing serious difficulty.,Resolved,5.0,Low
+JSG0246,Himachal Pradesh,2025-01-31,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. Please provide an update.,Resolved,44.0,High
+JSG0247,Uttarakhand,2025-10-30,Education,student admission record correction,I request the department to look into this. student admission record correction. This has been pending for weeks. Contact: 9876543210.,In Progress,,Medium
+JSG0248,Himachal Pradesh,2026-01-05,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. This has been pending for weeks. Contact: 9876543210.,Resolved,9.0,Low
+JSG0249,Bihar,2026-04-05,Social Welfare,widow pension payment delayed,"Despite repeated visits, widow pension payment delayed. My family is facing serious difficulty.",In Progress,,Low
+JSG0250,Bihar,2025-01-13,Education,school building repair pending,I am very upset. school building repair pending. Please provide an update.,Pending,,High
+JSG0251,Madhya Pradesh,2026-01-25,Public Health,medicine unavailable at government hospital,I request the department to look into this. medicine unavailable at government hospital. I have already submitted the required documents.,Resolved,18.0,Low
+JSG0252,Bihar,2025-03-20,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. No action has been taken so far.,In Progress,,Medium
+JSG0253,Uttar Pradesh,2025-11-08,Revenue,land mutation application pending,Please help. land mutation application pending. Please provide an update.,Resolved,22.0,Medium
+JSG0254,Himachal Pradesh,2025-11-25,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. I have already submitted the required documents.",Resolved,45.0,Low
+JSG0255,Rajasthan,2025-09-06,Food & Civil Supplies,new ration card application pending,I am very upset. new ration card application pending. Please provide an update.,Pending,,Low
+JSG0256,Madhya Pradesh,2026-07-18,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. Please provide an update.,Pending,,Medium
+JSG0257,Madhya Pradesh,2026-05-27,Social Welfare,pension beneficiary name correction,I request the department to look into this. pension beneficiary name correction. No action has been taken so far.,In Progress,,Medium
+JSG0258,Rajasthan,2026-05-06,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. Please provide an update.",Resolved,3.0,High
+JSG0259,Uttarakhand,2025-09-12,Rural Development,rural road construction incomplete,I am very upset. rural road construction incomplete. I have already submitted the required documents. Aadhaar: 1234 5678 9012.,In Progress,,High
+JSG0260,Bihar,2025-04-19,Revenue,property record has incorrect entry,Please help. property record has incorrect entry. This has been pending for weeks.,In Progress,,Medium
+JSG0261,Bihar,2026-01-19,Education,government school lacks teachers,Kindly resolve this issue. government school lacks teachers. Please provide an update.,Resolved,2.0,Medium
+JSG0262,Himachal Pradesh,2026-03-02,Revenue,land mutation application pending,Please help. land mutation application pending. This has been pending for weeks.,Resolved,14.0,Low
+JSG0263,Himachal Pradesh,2026-05-03,Education,student admission record correction,Please help. student admission record correction. Please provide an update.,Resolved,8.0,Low
+JSG0264,Madhya Pradesh,2025-04-22,Social Welfare,disability pension application pending,I request the department to look into this. disability pension application pending. I have already submitted the required documents.,Resolved,30.0,Low
+JSG0265,Madhya Pradesh,2025-07-08,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. Please provide an update.,Resolved,28.0,High
+JSG0266,Madhya Pradesh,2025-08-08,Revenue,land mutation application pending,I request the department to look into this. land mutation application pending. No action has been taken so far.,Resolved,35.0,Low
+JSG0267,Himachal Pradesh,2025-07-21,Public Health,ambulance service delayed,Kindly resolve this issue. ambulance service delayed. This has been pending for weeks.,In Progress,,High
+JSG0268,Rajasthan,2026-02-06,Education,student admission record correction,"Despite repeated visits, student admission record correction. This has been pending for weeks.",Pending,,Medium
+JSG0269,Rajasthan,2025-03-28,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. No action has been taken so far.,In Progress,,Low
+JSG0270,Bihar,2025-05-22,Education,student admission record correction,"Despite repeated visits, student admission record correction. Please provide an update.",Pending,,Medium
+JSG0271,Bihar,2025-10-23,Public Health,medicine unavailable at government hospital,I request the department to look into this. medicine unavailable at government hospital. I have already submitted the required documents.,Resolved,1.0,Low
+JSG0272,Uttar Pradesh,2026-01-29,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. My family is facing serious difficulty.",In Progress,,Medium
+JSG0273,Uttar Pradesh,2025-03-26,Revenue,caste certificate application not processed,"Despite repeated visits, caste certificate application not processed. This has been pending for weeks.",Resolved,19.0,Low
+JSG0274,Rajasthan,2026-05-23,Public Health,health card claim rejected,"Despite repeated visits, health card claim rejected. My family is facing serious difficulty.",Pending,,Medium
+JSG0275,Madhya Pradesh,2026-03-28,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. I have already submitted the required documents.",In Progress,,Medium
+JSG0276,Bihar,2025-09-27,Rural Development,rural road construction incomplete,I am very upset. rural road construction incomplete. This has been pending for weeks.,Resolved,38.0,Medium
+JSG0277,Madhya Pradesh,2026-03-15,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. My family is facing serious difficulty.,Resolved,23.0,Low
+JSG0278,Rajasthan,2026-07-06,Education,school building repair pending,I request the department to look into this. school building repair pending. No action has been taken so far.,Pending,,Medium
+JSG0279,Uttar Pradesh,2026-02-26,Education,scholarship amount not received,Please help. scholarship amount not received. No action has been taken so far.,Resolved,21.0,High
+JSG0280,Bihar,2025-05-26,Public Health,health card claim rejected,"Despite repeated visits, health card claim rejected. No action has been taken so far.",In Progress,,Low
+JSG0281,Rajasthan,2025-10-12,Social Welfare,pension beneficiary name correction,I am very upset. pension beneficiary name correction. Please provide an update.,In Progress,,Low
+JSG0282,Madhya Pradesh,2026-04-15,Food & Civil Supplies,ration card not updated,I am very upset. ration card not updated. This has been pending for weeks.,Pending,,High
+JSG0283,Himachal Pradesh,2025-10-18,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. My family is facing serious difficulty.,Resolved,44.0,Medium
+JSG0284,Uttarakhand,2026-04-16,Social Welfare,old age pension not credited,Please help. old age pension not credited. This has been pending for weeks.,Pending,,Medium
+JSG0285,Madhya Pradesh,2025-05-16,Revenue,income certificate delayed,I am very upset. income certificate delayed. I have already submitted the required documents.,Resolved,6.0,Low
+JSG0286,Uttarakhand,2026-02-10,Rural Development,MNREGA wages not received,I am very upset. MNREGA wages not received. I have already submitted the required documents.,Resolved,5.0,Low
+JSG0287,Rajasthan,2026-04-01,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. This has been pending for weeks.,Resolved,9.0,High
+JSG0288,Uttar Pradesh,2026-01-28,Revenue,land mutation application pending,Please help. land mutation application pending. This has been pending for weeks.,Resolved,9.0,Low
+JSG0289,Uttarakhand,2026-06-28,Food & Civil Supplies,fair price shop denied ration,"Despite repeated visits, fair price shop denied ration. This has been pending for weeks.",Resolved,10.0,Medium
+JSG0290,Uttar Pradesh,2025-03-30,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. I have already submitted the required documents.,Pending,,Low
+JSG0291,Uttar Pradesh,2025-10-11,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. I have already submitted the required documents.,In Progress,,Medium
+JSG0292,Madhya Pradesh,2025-11-05,Food & Civil Supplies,ration card not updated,I request the department to look into this. ration card not updated. My family is facing serious difficulty.,In Progress,,Low
+JSG0293,Bihar,2025-04-26,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. Please provide an update.,Resolved,24.0,High
+JSG0294,Bihar,2026-08-06,Rural Development,MNREGA wages not received,Kindly resolve this issue. MNREGA wages not received. No action has been taken so far.,Pending,,Medium
+JSG0295,Rajasthan,2025-03-11,Social Welfare,old age pension not credited,Please help. old age pension not credited. No action has been taken so far.,Resolved,19.0,High
+JSG0296,Bihar,2026-02-16,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. My family is facing serious difficulty.,Resolved,14.0,Low
+JSG0297,Bihar,2025-03-09,Public Health,ambulance service delayed,I am very upset. ambulance service delayed. Please provide an update.,Resolved,28.0,Low
+JSG0298,Rajasthan,2025-02-26,Social Welfare,pension beneficiary name correction,I am very upset. pension beneficiary name correction. I have already submitted the required documents.,Resolved,23.0,Medium
+JSG0299,Uttar Pradesh,2026-01-16,Education,school building repair pending,I request the department to look into this. school building repair pending. No action has been taken so far.,Resolved,28.0,High
+JSG0300,Himachal Pradesh,2026-08-14,Rural Development,rural road construction incomplete,Please help. rural road construction incomplete. Please provide an update.,In Progress,,Medium
+JSG0301,Himachal Pradesh,2025-04-16,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. This has been pending for weeks.",Pending,,Low
+JSG0302,Bihar,2026-01-08,Public Health,primary health centre has no doctor,Kindly resolve this issue. primary health centre has no doctor. I have already submitted the required documents.,Pending,,Low
+JSG0303,Uttar Pradesh,2025-11-26,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. Please provide an update.,In Progress,,Medium
+JSG0304,Uttar Pradesh,2025-08-17,Social Welfare,old age pension not credited,"Despite repeated visits, old age pension not credited. This has been pending for weeks.",Resolved,20.0,Medium
+JSG0305,Rajasthan,2026-04-13,Rural Development,rural road construction incomplete,Please help. rural road construction incomplete. No action has been taken so far.,In Progress,,Low
+JSG0306,Rajasthan,2026-05-21,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. My family is facing serious difficulty.,Resolved,15.0,Low
+JSG0307,Madhya Pradesh,2025-01-10,Education,school building repair pending,I am very upset. school building repair pending. This has been pending for weeks.,Resolved,14.0,Medium
+JSG0308,Bihar,2026-05-19,Education,government school lacks teachers,Please help. government school lacks teachers. I have already submitted the required documents.,Pending,,High
+JSG0309,Madhya Pradesh,2026-01-17,Education,student admission record correction,Kindly resolve this issue. student admission record correction. This has been pending for weeks.,Resolved,38.0,Medium
+JSG0310,Bihar,2025-05-14,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. No action has been taken so far.,In Progress,,Medium
+JSG0311,Himachal Pradesh,2026-04-09,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. I have already submitted the required documents. Contact: 9876543210.,In Progress,,Medium
+JSG0312,Uttar Pradesh,2026-04-06,Public Health,primary health centre has no doctor,Kindly resolve this issue. primary health centre has no doctor. No action has been taken so far.,Resolved,20.0,High
+JSG0313,Uttarakhand,2025-04-03,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. No action has been taken so far.,Pending,,Low
+JSG0314,Uttarakhand,2025-09-12,Rural Development,MNREGA wages not received,I am very upset. MNREGA wages not received. Please provide an update.,Pending,,Low
+JSG0315,Bihar,2026-07-24,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. I have already submitted the required documents. Contact: 9876543210.",Resolved,4.0,Medium
+JSG0316,Uttar Pradesh,2026-02-15,Public Health,medicine unavailable at government hospital,I am very upset. medicine unavailable at government hospital. This has been pending for weeks.,Resolved,5.0,Medium
+JSG0317,Uttar Pradesh,2025-04-05,Public Health,health card claim rejected,I am very upset. health card claim rejected. This has been pending for weeks. Contact: 9876543210.,In Progress,,Low
+JSG0318,Bihar,2025-01-31,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. Please provide an update.,Resolved,10.0,Low
+JSG0319,Madhya Pradesh,2025-10-30,Social Welfare,widow pension payment delayed,Kindly resolve this issue. widow pension payment delayed. Please provide an update.,Resolved,27.0,Low
+JSG0320,Madhya Pradesh,2026-07-11,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. Please provide an update.,In Progress,,Medium
+JSG0321,Bihar,2025-10-04,Education,school building repair pending,I request the department to look into this. school building repair pending. This has been pending for weeks.,In Progress,,High
+JSG0322,Rajasthan,2026-01-02,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. I have already submitted the required documents.",Resolved,4.0,Medium
+JSG0323,Himachal Pradesh,2025-06-27,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. I have already submitted the required documents.,Pending,,Medium
+JSG0324,Rajasthan,2026-08-01,Social Welfare,disability pension application pending,I request the department to look into this. disability pension application pending. My family is facing serious difficulty.,Pending,,Medium
+JSG0325,Uttar Pradesh,2026-05-18,Education,school building repair pending,Please help. school building repair pending. This has been pending for weeks. Contact: 9876543210.,In Progress,,Low
+JSG0326,Uttar Pradesh,2025-12-15,Rural Development,MNREGA wages not received,I request the department to look into this. MNREGA wages not received. No action has been taken so far. Contact: 9876543210.,Resolved,8.0,Medium
+JSG0327,Uttarakhand,2026-01-18,Education,school building repair pending,Kindly resolve this issue. school building repair pending. My family is facing serious difficulty.,Resolved,28.0,Low
+JSG0328,Madhya Pradesh,2025-11-21,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. My family is facing serious difficulty.,Resolved,38.0,Medium
+JSG0329,Himachal Pradesh,2025-10-29,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. I have already submitted the required documents.,Resolved,37.0,High
+JSG0330,Rajasthan,2025-11-22,Social Welfare,widow pension payment delayed,"Despite repeated visits, widow pension payment delayed. I have already submitted the required documents.",Resolved,5.0,Medium
+JSG0331,Himachal Pradesh,2025-06-21,Public Health,ambulance service delayed,Please help. ambulance service delayed. No action has been taken so far.,Resolved,17.0,Medium
+JSG0332,Uttarakhand,2026-01-31,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. Please provide an update.,Resolved,35.0,Medium
+JSG0333,Bihar,2026-08-15,Revenue,land mutation application pending,I request the department to look into this. land mutation application pending. I have already submitted the required documents.,Resolved,17.0,Low
+JSG0334,Himachal Pradesh,2025-06-24,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. I have already submitted the required documents.,Resolved,39.0,High
+JSG0335,Madhya Pradesh,2025-02-01,Education,student admission record correction,Kindly resolve this issue. student admission record correction. I have already submitted the required documents.,Resolved,13.0,Low
+JSG0336,Madhya Pradesh,2025-10-16,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. I have already submitted the required documents. Contact: 9876543210.,In Progress,,Medium
+JSG0337,Uttarakhand,2026-03-14,Social Welfare,disability pension application pending,Please help. disability pension application pending. No action has been taken so far.,Resolved,14.0,Medium
+JSG0338,Uttarakhand,2026-04-30,Public Health,ambulance service delayed,Please help. ambulance service delayed. No action has been taken so far.,Resolved,42.0,High
+JSG0339,Uttar Pradesh,2026-01-15,Education,student admission record correction,Kindly resolve this issue. student admission record correction. No action has been taken so far. Aadhaar: 1234 5678 9012.,Resolved,18.0,Low
+JSG0340,Uttar Pradesh,2025-04-10,Education,scholarship amount not received,Please help. scholarship amount not received. No action has been taken so far.,Resolved,4.0,Medium
+JSG0341,Rajasthan,2026-05-02,Revenue,caste certificate application not processed,"Despite repeated visits, caste certificate application not processed. I have already submitted the required documents.",In Progress,,High
+JSG0342,Uttarakhand,2026-04-05,Education,government school lacks teachers,I request the department to look into this. government school lacks teachers. I have already submitted the required documents.,Resolved,44.0,Low
+JSG0343,Madhya Pradesh,2025-06-01,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. No action has been taken so far.",Resolved,36.0,Medium
+JSG0344,Himachal Pradesh,2026-06-17,Revenue,property record has incorrect entry,Kindly resolve this issue. property record has incorrect entry. This has been pending for weeks.,Resolved,27.0,Medium
+JSG0345,Rajasthan,2026-08-20,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. This has been pending for weeks.,In Progress,,Low
+JSG0346,Himachal Pradesh,2026-01-28,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. My family is facing serious difficulty. Aadhaar: 1234 5678 9012.,Resolved,39.0,Low
+JSG0347,Uttarakhand,2026-02-10,Food & Civil Supplies,new ration card application pending,I am very upset. new ration card application pending. I have already submitted the required documents. Contact: 9876543210.,Resolved,22.0,Low
+JSG0348,Himachal Pradesh,2026-05-19,Rural Development,job card details incorrect,Please help. job card details incorrect. I have already submitted the required documents.,Pending,,Low
+JSG0349,Rajasthan,2025-04-02,Rural Development,drinking water work pending in village,I request the department to look into this. drinking water work pending in village. Please provide an update.,In Progress,,Medium
+JSG0350,Rajasthan,2025-06-12,Rural Development,rural road construction incomplete,Please help. rural road construction incomplete. No action has been taken so far.,In Progress,,Medium
+JSG0351,Uttar Pradesh,2025-07-17,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. This has been pending for weeks.,In Progress,,High
+JSG0352,Bihar,2026-06-02,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. This has been pending for weeks.,Resolved,31.0,Medium
+JSG0353,Himachal Pradesh,2025-06-17,Education,school building repair pending,I am very upset. school building repair pending. This has been pending for weeks.,In Progress,,Low
+JSG0354,Madhya Pradesh,2025-08-19,Public Health,medicine unavailable at government hospital,I request the department to look into this. medicine unavailable at government hospital. No action has been taken so far.,Pending,,High
+JSG0355,Bihar,2025-05-16,Food & Civil Supplies,ration card not updated,I request the department to look into this. ration card not updated. My family is facing serious difficulty.,Pending,,Medium
+JSG0356,Bihar,2026-01-21,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. Please provide an update.,Pending,,Medium
+JSG0357,Uttarakhand,2026-06-08,Revenue,land mutation application pending,I am very upset. land mutation application pending. My family is facing serious difficulty.,Resolved,5.0,Low
+JSG0358,Madhya Pradesh,2025-11-29,Rural Development,job card details incorrect,I am very upset. job card details incorrect. No action has been taken so far.,Resolved,34.0,Medium
+JSG0359,Rajasthan,2026-02-18,Public Health,primary health centre has no doctor,I am very upset. primary health centre has no doctor. I have already submitted the required documents.,Resolved,27.0,High
+JSG0360,Madhya Pradesh,2025-02-06,Revenue,caste certificate application not processed,"Despite repeated visits, caste certificate application not processed. My family is facing serious difficulty.",In Progress,,Medium
+JSG0361,Madhya Pradesh,2026-01-03,Food & Civil Supplies,new ration card application pending,"Despite repeated visits, new ration card application pending. No action has been taken so far.",Resolved,7.0,High
+JSG0362,Madhya Pradesh,2025-09-22,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. I have already submitted the required documents.",Resolved,15.0,Medium
+JSG0363,Bihar,2025-12-06,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. No action has been taken so far.,Resolved,41.0,Low
+JSG0364,Bihar,2025-07-19,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. This has been pending for weeks.",Resolved,10.0,Low
+JSG0365,Himachal Pradesh,2026-02-24,Public Health,medicine unavailable at government hospital,"Despite repeated visits, medicine unavailable at government hospital. Please provide an update.",Resolved,22.0,Low
+JSG0366,Himachal Pradesh,2025-03-01,Food & Civil Supplies,fair price shop denied ration,Please help. fair price shop denied ration. Please provide an update.,In Progress,,Medium
+JSG0367,Uttar Pradesh,2026-03-21,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. Please provide an update.,In Progress,,Low
+JSG0368,Uttarakhand,2025-11-26,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. I have already submitted the required documents. Contact: 9876543210. Aadhaar: 1234 5678 9012.",Resolved,23.0,Medium
+JSG0369,Uttarakhand,2026-01-28,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. My family is facing serious difficulty.",Pending,,Low
+JSG0370,Bihar,2025-05-18,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. Please provide an update.,Pending,,High
+JSG0371,Uttar Pradesh,2025-08-18,Revenue,land mutation application pending,I request the department to look into this. land mutation application pending. I have already submitted the required documents.,Resolved,42.0,Low
+JSG0372,Madhya Pradesh,2025-09-19,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. My family is facing serious difficulty. Contact: 9876543210.",In Progress,,Medium
+JSG0373,Madhya Pradesh,2025-04-29,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. Please provide an update.,Resolved,45.0,Medium
+JSG0374,Himachal Pradesh,2026-03-07,Food & Civil Supplies,ration card not updated,Please help. ration card not updated. My family is facing serious difficulty.,Pending,,Low
+JSG0375,Himachal Pradesh,2025-04-27,Social Welfare,old age pension not credited,Please help. old age pension not credited. Please provide an update.,In Progress,,Low
+JSG0376,Madhya Pradesh,2026-02-24,Public Health,ambulance service delayed,I am very upset. ambulance service delayed. I have already submitted the required documents. Contact: 9876543210.,Pending,,Medium
+JSG0377,Uttarakhand,2025-01-14,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. This has been pending for weeks.,Resolved,33.0,Low
+JSG0378,Himachal Pradesh,2025-08-25,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. No action has been taken so far.,Pending,,Medium
+JSG0379,Madhya Pradesh,2025-11-17,Rural Development,job card details incorrect,Kindly resolve this issue. job card details incorrect. This has been pending for weeks. Contact: 9876543210.,Pending,,Low
+JSG0380,Himachal Pradesh,2026-01-02,Food & Civil Supplies,fair price shop denied ration,Kindly resolve this issue. fair price shop denied ration. My family is facing serious difficulty.,Resolved,8.0,Medium
+JSG0381,Bihar,2025-10-06,Revenue,caste certificate application not processed,Kindly resolve this issue. caste certificate application not processed. Please provide an update.,Resolved,45.0,Medium
+JSG0382,Uttar Pradesh,2025-04-17,Food & Civil Supplies,ration card not updated,Kindly resolve this issue. ration card not updated. My family is facing serious difficulty.,In Progress,,Low
+JSG0383,Madhya Pradesh,2025-05-14,Rural Development,rural road construction incomplete,Kindly resolve this issue. rural road construction incomplete. Please provide an update.,Resolved,21.0,Low
+JSG0384,Madhya Pradesh,2025-12-13,Social Welfare,widow pension payment delayed,"Despite repeated visits, widow pension payment delayed. My family is facing serious difficulty.",In Progress,,Low
+JSG0385,Madhya Pradesh,2026-01-30,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. My family is facing serious difficulty.,Pending,,Low
+JSG0386,Bihar,2025-06-19,Education,student admission record correction,Please help. student admission record correction. Please provide an update.,In Progress,,Low
+JSG0387,Bihar,2025-08-29,Education,student admission record correction,Please help. student admission record correction. Please provide an update.,In Progress,,Low
+JSG0388,Bihar,2025-01-19,Rural Development,rural road construction incomplete,Please help. rural road construction incomplete. Please provide an update.,Resolved,39.0,Low
+JSG0389,Rajasthan,2026-07-30,Education,school building repair pending,I request the department to look into this. school building repair pending. Please provide an update.,Resolved,30.0,Low
+JSG0390,Madhya Pradesh,2026-01-08,Rural Development,drinking water work pending in village,Kindly resolve this issue. drinking water work pending in village. This has been pending for weeks. Contact: 9876543210.,Resolved,41.0,Low
+JSG0391,Madhya Pradesh,2025-04-19,Rural Development,job card details incorrect,Please help. job card details incorrect. I have already submitted the required documents.,Resolved,17.0,Medium
+JSG0392,Uttar Pradesh,2025-05-04,Education,government school lacks teachers,Kindly resolve this issue. government school lacks teachers. I have already submitted the required documents.,Resolved,27.0,Medium
+JSG0393,Bihar,2026-04-14,Social Welfare,old age pension not credited,"Despite repeated visits, old age pension not credited. My family is facing serious difficulty.",Resolved,28.0,Medium
+JSG0394,Rajasthan,2025-07-01,Education,student admission record correction,"Despite repeated visits, student admission record correction. I have already submitted the required documents.",In Progress,,Low
+JSG0395,Bihar,2025-09-12,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. Please provide an update.,Resolved,27.0,Medium
+JSG0396,Madhya Pradesh,2026-07-15,Education,school building repair pending,I am very upset. school building repair pending. My family is facing serious difficulty.,Resolved,23.0,Medium
+JSG0397,Madhya Pradesh,2025-07-02,Food & Civil Supplies,fair price shop denied ration,"Despite repeated visits, fair price shop denied ration. My family is facing serious difficulty.",Resolved,31.0,Medium
+JSG0398,Madhya Pradesh,2026-07-01,Education,student admission record correction,I am very upset. student admission record correction. Please provide an update.,Resolved,43.0,Low
+JSG0399,Himachal Pradesh,2025-06-14,Social Welfare,widow pension payment delayed,I am very upset. widow pension payment delayed. No action has been taken so far.,Resolved,35.0,Medium
+JSG0400,Bihar,2025-04-15,Social Welfare,disability pension application pending,"Despite repeated visits, disability pension application pending. My family is facing serious difficulty.",Resolved,45.0,Medium
+JSG0401,Bihar,2026-02-01,Rural Development,rural road construction incomplete,Kindly resolve this issue. rural road construction incomplete. No action has been taken so far.,Resolved,29.0,Medium
+JSG0402,Rajasthan,2026-07-14,Public Health,ambulance service delayed,"Despite repeated visits, ambulance service delayed. I have already submitted the required documents.",Resolved,44.0,Medium
+JSG0403,Uttar Pradesh,2026-06-11,Social Welfare,widow pension payment delayed,Please help. widow pension payment delayed. Please provide an update. Contact: 9876543210.,Resolved,17.0,Low
+JSG0404,Bihar,2025-06-08,Social Welfare,disability pension application pending,Please help. disability pension application pending. I have already submitted the required documents.,In Progress,,Medium
+JSG0405,Bihar,2026-08-10,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. No action has been taken so far. Contact: 9876543210.",Pending,,Medium
+JSG0406,Rajasthan,2025-06-13,Education,scholarship amount not received,Kindly resolve this issue. scholarship amount not received. My family is facing serious difficulty.,Resolved,22.0,Low
+JSG0407,Himachal Pradesh,2025-08-12,Rural Development,job card details incorrect,"Despite repeated visits, job card details incorrect. My family is facing serious difficulty.",In Progress,,Medium
+JSG0408,Bihar,2025-09-04,Social Welfare,disability pension application pending,"Despite repeated visits, disability pension application pending. My family is facing serious difficulty. Aadhaar: 1234 5678 9012.",Resolved,8.0,High
+JSG0409,Rajasthan,2025-10-17,Revenue,property record has incorrect entry,Please help. property record has incorrect entry. My family is facing serious difficulty.,Resolved,3.0,Medium
+JSG0410,Himachal Pradesh,2026-06-11,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. This has been pending for weeks.,Resolved,5.0,Medium
+JSG0411,Madhya Pradesh,2026-03-11,Public Health,medicine unavailable at government hospital,Please help. medicine unavailable at government hospital. I have already submitted the required documents.,In Progress,,High
+JSG0412,Madhya Pradesh,2025-06-07,Food & Civil Supplies,ration card not updated,Please help. ration card not updated. Please provide an update. Aadhaar: 1234 5678 9012.,Resolved,17.0,Low
+JSG0413,Rajasthan,2025-08-22,Education,scholarship amount not received,I am very upset. scholarship amount not received. Please provide an update.,Resolved,44.0,Low
+JSG0414,Madhya Pradesh,2025-03-06,Social Welfare,old age pension not credited,"Despite repeated visits, old age pension not credited. This has been pending for weeks.",Resolved,44.0,High
+JSG0415,Himachal Pradesh,2026-03-25,Rural Development,rural road construction incomplete,Kindly resolve this issue. rural road construction incomplete. Please provide an update. Aadhaar: 1234 5678 9012.,Resolved,26.0,Low
+JSG0416,Madhya Pradesh,2025-05-28,Education,school building repair pending,I am very upset. school building repair pending. No action has been taken so far. Aadhaar: 1234 5678 9012.,Resolved,3.0,High
+JSG0417,Rajasthan,2026-07-15,Social Welfare,pension beneficiary name correction,Please help. pension beneficiary name correction. No action has been taken so far.,Resolved,42.0,Medium
+JSG0418,Uttar Pradesh,2025-07-08,Education,government school lacks teachers,I request the department to look into this. government school lacks teachers. My family is facing serious difficulty.,In Progress,,Low
+JSG0419,Madhya Pradesh,2026-07-17,Social Welfare,pension beneficiary name correction,Please help. pension beneficiary name correction. No action has been taken so far.,In Progress,,Low
+JSG0420,Uttar Pradesh,2025-08-29,Rural Development,job card details incorrect,Please help. job card details incorrect. No action has been taken so far.,In Progress,,Low
+JSG0421,Madhya Pradesh,2026-08-22,Education,school building repair pending,I request the department to look into this. school building repair pending. My family is facing serious difficulty.,Resolved,21.0,High
+JSG0422,Madhya Pradesh,2026-03-23,Public Health,medicine unavailable at government hospital,I am very upset. medicine unavailable at government hospital. No action has been taken so far.,In Progress,,High
+JSG0423,Bihar,2026-07-19,Rural Development,job card details incorrect,Please help. job card details incorrect. I have already submitted the required documents.,Pending,,Low
+JSG0424,Himachal Pradesh,2025-03-20,Education,government school lacks teachers,Please help. government school lacks teachers. This has been pending for weeks.,In Progress,,Medium
+JSG0425,Uttarakhand,2026-07-19,Education,government school lacks teachers,I am very upset. government school lacks teachers. My family is facing serious difficulty.,Resolved,26.0,Medium
+JSG0426,Uttar Pradesh,2026-04-21,Public Health,ambulance service delayed,"Despite repeated visits, ambulance service delayed. My family is facing serious difficulty. Contact: 9876543210.",Resolved,40.0,Low
+JSG0427,Rajasthan,2025-05-24,Food & Civil Supplies,fair price shop denied ration,Kindly resolve this issue. fair price shop denied ration. I have already submitted the required documents.,Pending,,High
+JSG0428,Himachal Pradesh,2025-02-11,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. Please provide an update.,In Progress,,Low
+JSG0429,Bihar,2026-04-26,Education,school building repair pending,Kindly resolve this issue. school building repair pending. This has been pending for weeks. Contact: 9876543210.,Pending,,Low
+JSG0430,Madhya Pradesh,2025-09-27,Food & Civil Supplies,monthly food grain quantity short,"Despite repeated visits, monthly food grain quantity short. My family is facing serious difficulty.",In Progress,,Low
+JSG0431,Bihar,2025-08-17,Social Welfare,disability pension application pending,"Despite repeated visits, disability pension application pending. Please provide an update.",In Progress,,Medium
+JSG0432,Rajasthan,2025-05-23,Education,scholarship amount not received,Kindly resolve this issue. scholarship amount not received. I have already submitted the required documents.,Resolved,11.0,Low
+JSG0433,Madhya Pradesh,2025-08-24,Rural Development,rural road construction incomplete,Kindly resolve this issue. rural road construction incomplete. No action has been taken so far.,Resolved,11.0,Medium
+JSG0434,Uttarakhand,2025-09-07,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. I have already submitted the required documents.,Resolved,37.0,Medium
+JSG0435,Uttar Pradesh,2025-09-22,Public Health,primary health centre has no doctor,I request the department to look into this. primary health centre has no doctor. My family is facing serious difficulty.,Resolved,43.0,High
+JSG0436,Uttar Pradesh,2026-04-05,Rural Development,rural road construction incomplete,"Despite repeated visits, rural road construction incomplete. Please provide an update.",In Progress,,Medium
+JSG0437,Rajasthan,2026-06-08,Education,government school lacks teachers,I am very upset. government school lacks teachers. I have already submitted the required documents.,In Progress,,Medium
+JSG0438,Bihar,2025-05-16,Public Health,health card claim rejected,Please help. health card claim rejected. This has been pending for weeks.,Resolved,10.0,Medium
+JSG0439,Uttar Pradesh,2026-05-03,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. My family is facing serious difficulty. Contact: 9876543210.",Resolved,31.0,Medium
+JSG0440,Rajasthan,2026-07-07,Food & Civil Supplies,fair price shop denied ration,Please help. fair price shop denied ration. Please provide an update.,In Progress,,Low
+JSG0441,Bihar,2025-12-25,Public Health,health card claim rejected,"Despite repeated visits, health card claim rejected. My family is facing serious difficulty. Contact: 9876543210.",Resolved,6.0,Medium
+JSG0442,Himachal Pradesh,2025-07-13,Rural Development,drinking water work pending in village,Please help. drinking water work pending in village. This has been pending for weeks.,In Progress,,Low
+JSG0443,Bihar,2026-01-06,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. I have already submitted the required documents.,In Progress,,Low
+JSG0444,Rajasthan,2025-10-10,Education,school building repair pending,Kindly resolve this issue. school building repair pending. I have already submitted the required documents.,Resolved,36.0,Medium
+JSG0445,Himachal Pradesh,2026-08-15,Revenue,property record has incorrect entry,I am very upset. property record has incorrect entry. Please provide an update.,In Progress,,Medium
+JSG0446,Uttarakhand,2025-08-08,Revenue,income certificate delayed,"Despite repeated visits, income certificate delayed. Please provide an update.",In Progress,,Medium
+JSG0447,Bihar,2025-01-06,Social Welfare,widow pension payment delayed,Please help. widow pension payment delayed. I have already submitted the required documents.,Resolved,24.0,Low
+JSG0448,Madhya Pradesh,2026-01-29,Social Welfare,old age pension not credited,Kindly resolve this issue. old age pension not credited. My family is facing serious difficulty.,Resolved,12.0,High
+JSG0449,Bihar,2025-01-11,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. My family is facing serious difficulty. Aadhaar: 1234 5678 9012.,In Progress,,Medium
+JSG0450,Madhya Pradesh,2025-02-06,Public Health,medicine unavailable at government hospital,I am very upset. medicine unavailable at government hospital. I have already submitted the required documents.,Resolved,26.0,Low
+JSG0451,Bihar,2025-07-25,Rural Development,drinking water work pending in village,"Despite repeated visits, drinking water work pending in village. This has been pending for weeks.",Resolved,36.0,Low
+JSG0452,Himachal Pradesh,2025-10-11,Education,school building repair pending,I request the department to look into this. school building repair pending. My family is facing serious difficulty.,Resolved,12.0,Low
+JSG0453,Rajasthan,2025-03-16,Revenue,land mutation application pending,"Despite repeated visits, land mutation application pending. No action has been taken so far.",Resolved,35.0,Medium
+JSG0454,Madhya Pradesh,2026-03-30,Education,school building repair pending,Kindly resolve this issue. school building repair pending. My family is facing serious difficulty.,In Progress,,Low
+JSG0455,Rajasthan,2025-01-29,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. This has been pending for weeks.,Resolved,45.0,Medium
+JSG0456,Bihar,2025-12-28,Public Health,ambulance service delayed,"Despite repeated visits, ambulance service delayed. My family is facing serious difficulty. Contact: 9876543210.",Resolved,44.0,Medium
+JSG0457,Uttarakhand,2026-07-22,Food & Civil Supplies,monthly food grain quantity short,I request the department to look into this. monthly food grain quantity short. Please provide an update.,Resolved,44.0,Medium
+JSG0458,Madhya Pradesh,2025-07-24,Public Health,health card claim rejected,I request the department to look into this. health card claim rejected. I have already submitted the required documents.,Resolved,40.0,Low
+JSG0459,Uttarakhand,2025-05-03,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. Please provide an update.,Resolved,31.0,Medium
+JSG0460,Bihar,2026-08-12,Rural Development,job card details incorrect,I am very upset. job card details incorrect. Please provide an update.,Resolved,37.0,Medium
+JSG0461,Rajasthan,2026-03-10,Public Health,primary health centre has no doctor,Kindly resolve this issue. primary health centre has no doctor. My family is facing serious difficulty. Contact: 9876543210.,In Progress,,High
+JSG0462,Madhya Pradesh,2026-06-15,Revenue,land mutation application pending,Kindly resolve this issue. land mutation application pending. No action has been taken so far. Aadhaar: 1234 5678 9012.,In Progress,,Low
+JSG0463,Rajasthan,2025-09-23,Rural Development,job card details incorrect,I request the department to look into this. job card details incorrect. My family is facing serious difficulty.,Resolved,12.0,High
+JSG0464,Uttar Pradesh,2026-03-06,Revenue,caste certificate application not processed,I am very upset. caste certificate application not processed. No action has been taken so far.,Resolved,37.0,Low
+JSG0465,Uttarakhand,2025-10-04,Food & Civil Supplies,fair price shop denied ration,I request the department to look into this. fair price shop denied ration. My family is facing serious difficulty.,Pending,,Medium
+JSG0466,Uttarakhand,2025-06-30,Public Health,health card claim rejected,Kindly resolve this issue. health card claim rejected. Please provide an update.,In Progress,,Medium
+JSG0467,Himachal Pradesh,2025-09-14,Rural Development,drinking water work pending in village,"Despite repeated visits, drinking water work pending in village. My family is facing serious difficulty. Contact: 9876543210.",Resolved,17.0,Low
+JSG0468,Bihar,2025-12-09,Revenue,land mutation application pending,I am very upset. land mutation application pending. No action has been taken so far.,Resolved,27.0,Medium
+JSG0469,Madhya Pradesh,2025-07-23,Social Welfare,disability pension application pending,"Despite repeated visits, disability pension application pending. My family is facing serious difficulty.",Resolved,21.0,High
+JSG0470,Madhya Pradesh,2026-04-03,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. Please provide an update.,Pending,,High
+JSG0471,Bihar,2026-08-09,Food & Civil Supplies,monthly food grain quantity short,Kindly resolve this issue. monthly food grain quantity short. This has been pending for weeks. Contact: 9876543210.,In Progress,,Low
+JSG0472,Rajasthan,2026-02-09,Food & Civil Supplies,monthly food grain quantity short,I am very upset. monthly food grain quantity short. Please provide an update.,In Progress,,Medium
+JSG0473,Uttar Pradesh,2025-07-08,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. I have already submitted the required documents.,In Progress,,High
+JSG0474,Uttar Pradesh,2026-02-11,Social Welfare,widow pension payment delayed,Please help. widow pension payment delayed. This has been pending for weeks. Contact: 9876543210.,Resolved,26.0,Medium
+JSG0475,Uttarakhand,2025-09-26,Education,scholarship amount not received,"Despite repeated visits, scholarship amount not received. I have already submitted the required documents. Contact: 9876543210.",Resolved,19.0,Low
+JSG0476,Uttar Pradesh,2026-06-24,Revenue,income certificate delayed,I request the department to look into this. income certificate delayed. This has been pending for weeks. Contact: 9876543210.,Pending,,High
+JSG0477,Rajasthan,2026-04-01,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. My family is facing serious difficulty.,In Progress,,Medium
+JSG0478,Rajasthan,2026-07-01,Education,student admission record correction,I am very upset. student admission record correction. No action has been taken so far.,Resolved,27.0,Low
+JSG0479,Himachal Pradesh,2025-01-11,Rural Development,MNREGA wages not received,Please help. MNREGA wages not received. My family is facing serious difficulty.,In Progress,,Low
+JSG0480,Bihar,2025-11-03,Social Welfare,pension beneficiary name correction,Please help. pension beneficiary name correction. Please provide an update.,In Progress,,Medium
+JSG0481,Rajasthan,2026-03-24,Public Health,health card claim rejected,Kindly resolve this issue. health card claim rejected. I have already submitted the required documents.,Resolved,17.0,Low
+JSG0482,Madhya Pradesh,2025-09-03,Social Welfare,pension beneficiary name correction,"Despite repeated visits, pension beneficiary name correction. My family is facing serious difficulty.",In Progress,,Low
+JSG0483,Uttar Pradesh,2025-03-12,Rural Development,drinking water work pending in village,I request the department to look into this. drinking water work pending in village. I have already submitted the required documents.,Resolved,40.0,Medium
+JSG0484,Himachal Pradesh,2025-01-20,Revenue,income certificate delayed,I request the department to look into this. income certificate delayed. This has been pending for weeks. Aadhaar: 1234 5678 9012.,Resolved,9.0,High
+JSG0485,Madhya Pradesh,2025-01-09,Food & Civil Supplies,new ration card application pending,I request the department to look into this. new ration card application pending. This has been pending for weeks.,Resolved,32.0,Low
+JSG0486,Madhya Pradesh,2025-02-02,Rural Development,drinking water work pending in village,I am very upset. drinking water work pending in village. This has been pending for weeks.,In Progress,,Low
+JSG0487,Uttar Pradesh,2025-07-16,Social Welfare,pension beneficiary name correction,I am very upset. pension beneficiary name correction. Please provide an update.,Resolved,29.0,Medium
+JSG0488,Uttar Pradesh,2026-04-17,Public Health,primary health centre has no doctor,Please help. primary health centre has no doctor. My family is facing serious difficulty.,Pending,,Medium
+JSG0489,Madhya Pradesh,2025-02-13,Rural Development,MNREGA wages not received,"Despite repeated visits, MNREGA wages not received. My family is facing serious difficulty.",Resolved,4.0,Low
+JSG0490,Uttarakhand,2025-08-30,Food & Civil Supplies,fair price shop denied ration,Kindly resolve this issue. fair price shop denied ration. No action has been taken so far. Contact: 9876543210.,Resolved,16.0,High
+JSG0491,Rajasthan,2026-05-02,Social Welfare,old age pension not credited,"Despite repeated visits, old age pension not credited. I have already submitted the required documents.",Resolved,40.0,Low
+JSG0492,Uttarakhand,2025-12-31,Rural Development,rural road construction incomplete,I request the department to look into this. rural road construction incomplete. My family is facing serious difficulty.,Pending,,Low
+JSG0493,Bihar,2025-07-17,Food & Civil Supplies,monthly food grain quantity short,Please help. monthly food grain quantity short. Please provide an update.,In Progress,,High
+JSG0494,Rajasthan,2026-05-17,Revenue,property record has incorrect entry,I request the department to look into this. property record has incorrect entry. My family is facing serious difficulty.,Resolved,39.0,Medium
+JSG0495,Uttarakhand,2026-06-28,Education,government school lacks teachers,I request the department to look into this. government school lacks teachers. Please provide an update.,Resolved,41.0,Low
+JSG0496,Madhya Pradesh,2025-07-09,Education,student admission record correction,Please help. student admission record correction. My family is facing serious difficulty.,In Progress,,Low
+JSG0497,Uttar Pradesh,2026-06-21,Food & Civil Supplies,new ration card application pending,Kindly resolve this issue. new ration card application pending. My family is facing serious difficulty.,Resolved,7.0,Low
+JSG0498,Uttarakhand,2025-05-13,Education,scholarship amount not received,I request the department to look into this. scholarship amount not received. This has been pending for weeks.,In Progress,,Low
+JSG0499,Rajasthan,2025-09-20,Revenue,caste certificate application not processed,Please help. caste certificate application not processed. No action has been taken so far.,Pending,,Low
+JSG0500,Uttarakhand,2026-04-25,Food & Civil Supplies,new ration card application pending,Please help. new ration card application pending. No action has been taken so far.,Resolved,4.0,Low
